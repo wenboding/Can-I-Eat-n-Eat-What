@@ -10,15 +10,16 @@ So far, it has helped me lose about 2 pounds in 3 weeks, and I hope it can be us
 
 ## UI Screenshots
 
-### Today Dashboard
-<img src="activity_health_dynamic_tracking.PNG" alt="Today dashboard" width="320">
-
-The `Today` tab is the main daily workflow. It combines a 7-day progress view, meal logging shortcuts, one-shot next meal recommendation, and a live health snapshot for sleep, energy, exercise, steps, weight, and body fat.
-
 ### Progress And Trend View
 <img src="history_diagram.PNG" alt="Progress and trend view" width="320">
 
 This view highlights streak tracking and the recent estimated energy balance chart, giving users a quick read on logging consistency and daily calorie balance trends.
+
+### Activity and meal Logging Dashboard
+<img src="activity_health_dynamic_tracking.PNG" alt="Today dashboard" width="320">
+
+It combines a meal logging shortcut, one-shot next meal recommendation, and a live health snapshot for sleep, energy, exercise, steps, weight, and body fat.
+
 
 ### My Data Hub
 <img src="Health_status_input_tracking.PNG" alt="My Data hub" width="320">
@@ -28,7 +29,7 @@ The `My Data` tab centralizes daily history, health status entries, and settings
 ### API Key Setup
 <img src="Support_chatgpt_n_Qwen.PNG" alt="API key setup" width="320">
 
-`API Key Setup` lets users switch between OpenAI and Qwen, save one provider key securely in Keychain, update the stored key, or remove it when needed.
+`API Key Setup` lets users switch between OpenAI and Qwen, save one provider key securely in Keychain, update the stored key, or remove it when needed. Chinese users can use the Qwen API. 中国用户推荐使用千问的api。
 
 ### Language Settings
 <img src="Support_english_n_chinese.PNG" alt="Language settings" width="320">
