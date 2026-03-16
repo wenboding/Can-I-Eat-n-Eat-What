@@ -18,7 +18,6 @@ So far, it has helped me lose about 2 pounds in 3 weeks, and I hope it can be us
 
 This view highlights streak tracking and the recent estimated energy balance chart, giving users a quick read on logging consistency and daily calorie balance trends.
 
-### My Data Hub
 ### Activity and meal Logging Dashboard
 <img src="meal_logger.PNG" alt="Meal Log" width="320">
 
