@@ -1,8 +1,12 @@
-# Meal Coach Demo (SwiftUI, iOS 17+)
+# Calorie tracking and meal recommendation App
+As I’ve gotten older, losing weight has become more challenging. I often found myself second-guessing what I should or shouldn’t eat.
 
-A local-first SwiftUI demo app with two tabs:
-- `Today`: Health snapshot, meal photo analysis, one-shot next meal recommendation
-- `My Data`: Daily history, health status records, provider setup, preferences, and local data management
+So I built this app to track both calories burned through daily activity and calories consumed through meals. The goal is to make it easy to see how much calorie “budget” I still have for the day — no more guessing or awkward uncertainty around food choices.
+
+The app is designed to record activity, resting and active calorie burn, and meal intake. It also aims to provide smarter meal recommendations by considering recent activity, meals from the past two days, and health data such as body fat percentage.
+Meal recommendation features are still in progress.
+
+So far, it has helped me lose about 2 pounds in 3 weeks, and I hope it can be useful for others as well.
 
 ## UI Screenshots
 
@@ -49,7 +53,7 @@ The `Language` screen switches both the app UI text and AI response language bet
    - Enter an OpenAI or Qwen API key on `API Key Setup`
 
 ## Before Publishing
-- Set your own Apple Developer team in Xcode Signing & Capabilities.
+- Set your own Apple account in Xcode Signing & Capabilities.
 - Replace the placeholder bundle identifiers (`com.example.whattoeat*`) with your own unique identifiers before archiving or App Store submission.
 
 ## API Key Handling
