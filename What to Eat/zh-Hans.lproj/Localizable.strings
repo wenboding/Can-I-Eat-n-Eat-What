@@ -1,0 +1,140 @@
+"Today" = "今日";
+"My Data" = "我的数据";
+"Open Settings" = "打开设置";
+
+"Meal Coach Setup" = "Meal Coach 设置";
+"Back" = "上一步";
+"Continue" = "继续";
+"Finish" = "完成";
+"Intro" = "介绍";
+"Health" = "健康";
+"Location" = "定位";
+"Photos" = "照片";
+"Consent" = "同意";
+"API Key" = "API Key";
+
+"Welcome to Meal Coach" = "欢迎使用 Meal Coach";
+"This demo app helps you analyze meals and generate one-shot meal suggestions." = "这个演示应用可以帮助你分析餐食并生成一次性餐食建议。";
+"Disclaimer: This app is not medical advice. Always consult a qualified professional for medical or nutrition decisions." = "免责声明：本应用不构成医疗建议。任何医疗或营养决策请咨询专业人士。";
+
+"Health Access" = "健康权限";
+"Allow read-only HealthKit access to tailor recommendations using activity, sleep, and body metrics." = "允许只读 HealthKit 权限，以便基于活动、睡眠和身体指标进行个性化建议。";
+"Health access granted." = "健康权限已授予。";
+"Health access denied. You can still use the app with reduced personalization." = "健康权限被拒绝。你仍可继续使用应用，但个性化程度会降低。";
+"Health data unavailable on this device." = "该设备不支持健康数据。";
+"Not requested yet." = "尚未请求。";
+"Grant Health Access" = "授予健康权限";
+
+"Location Access" = "定位权限";
+"Allow location to optionally include nearby restaurant suggestions." = "允许定位后可选包含附近餐厅建议。";
+"Location access granted." = "定位权限已授予。";
+"Location denied. Recommendations will work without nearby options." = "定位权限被拒绝。推荐功能仍可使用，但不会提供附近选项。";
+"Unknown location permission status." = "未知的定位权限状态。";
+"Grant Location Access" = "授予定位权限";
+
+"Photos Access" = "照片权限";
+"Allow photo access for meal photos and medical record uploads." = "允许访问照片，用于上传餐食照片和医疗记录。";
+"Photo access granted." = "照片权限已授予。";
+"Photo access denied. Meal and medical image upload will not work." = "照片权限被拒绝。餐食和医疗图片上传将不可用。";
+"Unknown photo permission status." = "未知的照片权限状态。";
+"Grant Photos Access" = "授予照片权限";
+
+"OpenAI API Key" = "OpenAI API Key";
+"No API key saved yet." = "尚未保存 API Key。";
+"Paste API key" = "粘贴 API Key";
+"Save Key" = "保存密钥";
+"Remove Key" = "移除密钥";
+"Your API key stays on-device in Keychain and is never shown in full." = "你的 API Key 仅保存在本机 Keychain 中，且不会完整显示。";
+
+"Health Access Needed" = "需要健康权限";
+"Enable Health access for activity, sleep, and body metrics in Today Statistics." = "请在“今日统计”中启用健康权限，以获取活动、睡眠和身体指标。";
+"Location Optional" = "定位为可选";
+"Location is disabled. Recommendations will still work without nearby restaurant options." = "定位已关闭。推荐功能仍可使用，但不会显示附近餐厅选项。";
+
+"Today Statistics" = "今日统计";
+"No snapshot yet." = "暂无数据快照。";
+"Refresh Snapshot" = "刷新快照";
+"Log a Meal" = "记录一餐";
+"Log Breakfast" = "记录早餐";
+"Log Lunch" = "记录午餐";
+"Log Dinner" = "记录晚餐";
+"Next Meal Recommendation" = "下一餐推荐";
+"Generating recommendation..." = "正在生成推荐...";
+"Nearby options" = "附近选项";
+"Try Another" = "换一个";
+"Log This Meal" = "记录这餐";
+"Tap below for a single recommendation. This is one-shot, not a conversation." = "点击下方获取一次性推荐。这不是连续对话。";
+"Get Next Meal Recommendation" = "获取下一餐推荐";
+"Retry" = "重试";
+"Sleep" = "睡眠";
+"Energy" = "能量";
+"Exercise" = "运动";
+"Steps" = "步数";
+"Weight" = "体重";
+"Body Fat" = "体脂";
+
+"Processing image..." = "正在处理图片...";
+"Analyze Meal" = "分析餐食";
+"Analyzing with OpenAI..." = "正在使用 OpenAI 分析...";
+"Close" = "关闭";
+"Analysis" = "分析结果";
+"Save" = "保存";
+"Discard" = "丢弃";
+"Calories" = "热量";
+"Protein (g)" = "蛋白质（克）";
+"Carbs (g)" = "碳水（克）";
+"Fat (g)" = "脂肪（克）";
+"Notes" = "备注";
+
+"Daily History" = "每日历史";
+"No daily summaries yet." = "暂无每日汇总。";
+"Recompute Daily Totals" = "重新计算每日总计";
+"Medical Records" = "医疗记录";
+"Upload Medical Record" = "上传医疗记录";
+"No medical records uploaded." = "尚未上传医疗记录。";
+"Settings" = "设置";
+"API Key Setup" = "API Key 设置";
+"Preferences" = "偏好设置";
+"Language" = "语言";
+"Data Management" = "数据管理";
+"Stored Key" = "已保存密钥";
+"No API key saved." = "未保存 API Key。";
+"Update API Key" = "更新 API Key";
+"Danger Zone" = "危险操作";
+"The API key is stored locally in Keychain and is never shown in full." = "API Key 仅保存在本机 Keychain 中，且不会完整显示。";
+"Remove the saved API key?" = "确定移除已保存的 API Key 吗？";
+
+"Diet" = "饮食";
+"Food Preferences" = "饮食偏好";
+"Diet Style" = "饮食类型";
+"Budget" = "预算";
+"Allergies (comma separated)" = "过敏原（逗号分隔）";
+"Favorite cuisines (comma separated)" = "喜好菜系（逗号分隔）";
+"Dislikes (comma separated)" = "不喜欢的食物（逗号分隔）";
+"Preferences saved successfully." = "偏好已保存。";
+
+"Export" = "导出";
+"Generate JSON Export" = "生成 JSON 导出文件";
+"Share Export File" = "分享导出文件";
+"Delete" = "删除";
+"Delete All Local Data" = "删除所有本地数据";
+"Delete all data?" = "删除全部数据？";
+"This removes all meals, summaries, medical transcripts, and local images." = "这将删除所有餐食、每日汇总、医疗转录和本地图片。";
+"Cancel" = "取消";
+
+"Summary" = "汇总";
+"Meals" = "餐食";
+"No summary available for this day." = "当天暂无汇总。";
+"No meals saved on this day." = "当天未保存任何餐食。";
+"Health Snapshot" = "健康快照";
+
+"Select Medical Record Image" = "选择医疗记录图片";
+"Transcribe" = "转录";
+"Transcribing..." = "正在转录...";
+"Transcript" = "转录结果";
+"Upload Record" = "上传记录";
+"Record" = "记录";
+"Delete this record?" = "删除这条记录？";
+
+"App Language" = "应用语言";
+"This controls both UI text and OpenAI response language." = "该设置会同时影响界面语言和 OpenAI 返回语言。";

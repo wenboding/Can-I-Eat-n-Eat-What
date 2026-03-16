@@ -1,0 +1,140 @@
+"Today" = "Today";
+"My Data" = "My Data";
+"Open Settings" = "Open Settings";
+
+"Meal Coach Setup" = "Meal Coach Setup";
+"Back" = "Back";
+"Continue" = "Continue";
+"Finish" = "Finish";
+"Intro" = "Intro";
+"Health" = "Health";
+"Location" = "Location";
+"Photos" = "Photos";
+"Consent" = "Consent";
+"API Key" = "API Key";
+
+"Welcome to Meal Coach" = "Welcome to Meal Coach";
+"This demo app helps you analyze meals and generate one-shot meal suggestions." = "This demo app helps you analyze meals and generate one-shot meal suggestions.";
+"Disclaimer: This app is not medical advice. Always consult a qualified professional for medical or nutrition decisions." = "Disclaimer: This app is not medical advice. Always consult a qualified professional for medical or nutrition decisions.";
+
+"Health Access" = "Health Access";
+"Allow read-only HealthKit access to tailor recommendations using activity, sleep, and body metrics." = "Allow read-only HealthKit access to tailor recommendations using activity, sleep, and body metrics.";
+"Health access granted." = "Health access granted.";
+"Health access denied. You can still use the app with reduced personalization." = "Health access denied. You can still use the app with reduced personalization.";
+"Health data unavailable on this device." = "Health data unavailable on this device.";
+"Not requested yet." = "Not requested yet.";
+"Grant Health Access" = "Grant Health Access";
+
+"Location Access" = "Location Access";
+"Allow location to optionally include nearby restaurant suggestions." = "Allow location to optionally include nearby restaurant suggestions.";
+"Location access granted." = "Location access granted.";
+"Location denied. Recommendations will work without nearby options." = "Location denied. Recommendations will work without nearby options.";
+"Unknown location permission status." = "Unknown location permission status.";
+"Grant Location Access" = "Grant Location Access";
+
+"Photos Access" = "Photos Access";
+"Allow photo access for meal photos and medical record uploads." = "Allow photo access for meal photos and medical record uploads.";
+"Photo access granted." = "Photo access granted.";
+"Photo access denied. Meal and medical image upload will not work." = "Photo access denied. Meal and medical image upload will not work.";
+"Unknown photo permission status." = "Unknown photo permission status.";
+"Grant Photos Access" = "Grant Photos Access";
+
+"OpenAI API Key" = "OpenAI API Key";
+"No API key saved yet." = "No API key saved yet.";
+"Paste API key" = "Paste API key";
+"Save Key" = "Save Key";
+"Remove Key" = "Remove Key";
+"Your API key stays on-device in Keychain and is never shown in full." = "Your API key stays on-device in Keychain and is never shown in full.";
+
+"Health Access Needed" = "Health Access Needed";
+"Enable Health access for activity, sleep, and body metrics in Today Statistics." = "Enable Health access for activity, sleep, and body metrics in Today Statistics.";
+"Location Optional" = "Location Optional";
+"Location is disabled. Recommendations will still work without nearby restaurant options." = "Location is disabled. Recommendations will still work without nearby restaurant options.";
+
+"Today Statistics" = "Today Statistics";
+"No snapshot yet." = "No snapshot yet.";
+"Refresh Snapshot" = "Refresh Snapshot";
+"Log a Meal" = "Log a Meal";
+"Log Breakfast" = "Log Breakfast";
+"Log Lunch" = "Log Lunch";
+"Log Dinner" = "Log Dinner";
+"Next Meal Recommendation" = "Next Meal Recommendation";
+"Generating recommendation..." = "Generating recommendation...";
+"Nearby options" = "Nearby options";
+"Try Another" = "Try Another";
+"Log This Meal" = "Log This Meal";
+"Tap below for a single recommendation. This is one-shot, not a conversation." = "Tap below for a single recommendation. This is one-shot, not a conversation.";
+"Get Next Meal Recommendation" = "Get Next Meal Recommendation";
+"Retry" = "Retry";
+"Sleep" = "Sleep";
+"Energy" = "Energy";
+"Exercise" = "Exercise";
+"Steps" = "Steps";
+"Weight" = "Weight";
+"Body Fat" = "Body Fat";
+
+"Processing image..." = "Processing image...";
+"Analyze Meal" = "Analyze Meal";
+"Analyzing with OpenAI..." = "Analyzing with OpenAI...";
+"Close" = "Close";
+"Analysis" = "Analysis";
+"Save" = "Save";
+"Discard" = "Discard";
+"Calories" = "Calories";
+"Protein (g)" = "Protein (g)";
+"Carbs (g)" = "Carbs (g)";
+"Fat (g)" = "Fat (g)";
+"Notes" = "Notes";
+
+"Daily History" = "Daily History";
+"No daily summaries yet." = "No daily summaries yet.";
+"Recompute Daily Totals" = "Recompute Daily Totals";
+"Medical Records" = "Medical Records";
+"Upload Medical Record" = "Upload Medical Record";
+"No medical records uploaded." = "No medical records uploaded.";
+"Settings" = "Settings";
+"API Key Setup" = "API Key Setup";
+"Preferences" = "Preferences";
+"Language" = "Language";
+"Data Management" = "Data Management";
+"Stored Key" = "Stored Key";
+"No API key saved." = "No API key saved.";
+"Update API Key" = "Update API Key";
+"Danger Zone" = "Danger Zone";
+"The API key is stored locally in Keychain and is never shown in full." = "The API key is stored locally in Keychain and is never shown in full.";
+"Remove the saved API key?" = "Remove the saved API key?";
+
+"Diet" = "Diet";
+"Food Preferences" = "Food Preferences";
+"Diet Style" = "Diet Style";
+"Budget" = "Budget";
+"Allergies (comma separated)" = "Allergies (comma separated)";
+"Favorite cuisines (comma separated)" = "Favorite cuisines (comma separated)";
+"Dislikes (comma separated)" = "Dislikes (comma separated)";
+"Preferences saved successfully." = "Preferences saved successfully.";
+
+"Export" = "Export";
+"Generate JSON Export" = "Generate JSON Export";
+"Share Export File" = "Share Export File";
+"Delete" = "Delete";
+"Delete All Local Data" = "Delete All Local Data";
+"Delete all data?" = "Delete all data?";
+"This removes all meals, summaries, medical transcripts, and local images." = "This removes all meals, summaries, medical transcripts, and local images.";
+"Cancel" = "Cancel";
+
+"Summary" = "Summary";
+"Meals" = "Meals";
+"No summary available for this day." = "No summary available for this day.";
+"No meals saved on this day." = "No meals saved on this day.";
+"Health Snapshot" = "Health Snapshot";
+
+"Select Medical Record Image" = "Select Medical Record Image";
+"Transcribe" = "Transcribe";
+"Transcribing..." = "Transcribing...";
+"Transcript" = "Transcript";
+"Upload Record" = "Upload Record";
+"Record" = "Record";
+"Delete this record?" = "Delete this record?";
+
+"App Language" = "App Language";
+"This controls both UI text and OpenAI response language." = "This controls both UI text and OpenAI response language.";
