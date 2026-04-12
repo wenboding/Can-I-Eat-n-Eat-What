@@ -1,6 +1,6 @@
 # Privacy-protected Calorie tracking and meal recommendation App
 
-The key point of this app is that, if you have your own token from any LLM provider(Claude/OpenAI). Then your data can be safely stored within your phone locally. All the request's context (your health status/recent activities/meals) will be organized locally and then sent to the LLM provider. They claim that these API data won't be used for training their model and will be deleted later. So, if their claim is true, no one can see your data in theory. And using your own token means the cost is very low, based on my experience, 3 meals a day cost about $0.004 /day.
+The key point of this app is that all data is stored and organized in your app/phone locally. You will need to apply your own API token from a LLM provider(Claude/OpenAI), but all the request's context (your health status/recent activities/meals) will be organized locally and then sent to the LLM provider. They claim that these API data won't be used for training their model and will be deleted one month later. So, if their claim is true, no one can see your data in theory. Besides, using your own token means the cost is very low; based on my experience, 3 meals a day cost about $0.004 /day.
 
 As I’ve gotten older, losing weight has become more challenging. I often found myself second-guessing what I should or shouldn’t eat.
 
